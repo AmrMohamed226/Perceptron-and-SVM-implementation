@@ -1,4 +1,4 @@
-# Perceptron-and-SVM-implementation
+# Perceptron and SVM implementation
 
 In this project, the Pegasos algorithm for training support vector classifiers was implemented using OOP including the implementation of its hinge loss function for sentiment data classification of customer reviews on music albums as positive or negative. In addition, the Logistic regression model was implemented using OOP including the log loss function on the same data.
 
